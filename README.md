@@ -1,2 +1,4 @@
 # First-Repositroy
-This is my first repository. Just a readme.txt file.
+This is my first repository. Just a readme file.
+
+Hello Everyone!
